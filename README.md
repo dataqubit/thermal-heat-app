@@ -28,3 +28,6 @@ psycopg2
 ## Snapshot
 
 ![App Snapshot](./images/app_snapshot.jpg)
+
+
+2019
