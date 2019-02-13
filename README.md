@@ -27,4 +27,4 @@ psycopg2
 
 ## Snapshot
 
-[![](./images/app_snapshot.jpg)]
+![App Snapshot](./images/app_snapshot.jpg)
