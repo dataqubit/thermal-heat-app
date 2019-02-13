@@ -24,3 +24,7 @@ psycopg2
 
 * [Python Dash](https://plot.ly/products/dash/) - The web framework used
 * [Pandas](https://pandas.pydata.org/) - Data Analytics
+
+## Snapshot
+
+[![](./images/app_snapshot.jpg)]
